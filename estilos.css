@@ -1,0 +1,54 @@
+body{
+    background: url(../fondos/fondo7.jpg);
+    background-repeat: no-repeat;
+}
+.cuadro{
+    background:  lightgray;
+   
+}           
+    
+
+.titulo{
+    color:  mediumseagreen;
+    font-size: 30px;
+    font-family:Bernard MT Condensed;
+    
+}
+
+.enlace{
+    font-size: 20px;    
+    align-content: center;
+    color:steelblue;
+    text-decoration:none;
+}
+.insertar{
+    text-decoration:none;
+    color: teal;
+}
+/*.editar{
+    font-size: 15px;
+    background: darkcyan;
+    color: white;
+    text-decoration: none;
+    
+    
+    
+}*/
+/*.eliminar{
+    font-size: 15px;
+    background: darkcyan;
+    color: white;
+    text-decoration: none;
+    
+
+    
+        
+    
+    
+    
+    
+}*/
+.boton{
+    text-decoration: none;
+    
+}
